@@ -2,7 +2,7 @@
 
 🎓 Currently studying Computer Science and Engineering at Rajshahi Polytechnic Institute, Bangladesh
 
-💻 Learning JavaScript and PHP
+💻 Learning Java and Python
 
 🌱 Passionate about coding, problem-solving, and building innovative projects
 
